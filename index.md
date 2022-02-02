@@ -2,5 +2,5 @@
 
 [/../](https://tustudionet.github.io/)
 
-**/MiniWorld.sb3/** 
+**/MiniSpace.sb3/** 
 *此文件已被锁定。*
